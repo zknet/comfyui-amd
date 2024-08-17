@@ -1,0 +1,2 @@
+#通过以下命令激活名为comfyui的Conda环境
+conda activate comfyui
